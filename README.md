@@ -136,7 +136,7 @@ To estimate the impact of wave picking strategy on your productivity, we will ru
 ## 🧮**Experiment 2: Impacts of orders batching using spatial clusters of picking locations?**
 
 <p align="center">
-  <img align="center" src="static/img/cluster_process.png" width=100%>
+  <img align="center" src="static/img/cluster_process.jpg" width=100%>
   
 </p>
 <p align="center"><b>Order Lines Processing</b> for Order Wave Picking using Clustering by Picking Location</p>
@@ -178,14 +178,14 @@ To sum up, our model construction, see the chart below, we have several steps be
 
 At each step, we have a collection of parameters that can be tuned to improve performance:
 <p align="center">
-  <img align="center" src="static/img/cluster_analysis.png" width=100%>
+  <img align="center" src="static/img/cluster_analysis.jpg" width=100%>
   
 </p>
 <p align="center"><b>Methodology: </b>Model Construction with Parameters</p>
 
 #### **Comparing three methods of wave creation**
 <p align="center">
-  <img align="center" src="static/img/wave_creation.png" width=75%>
+  <img align="center" src="static/img/wave_creation.jpg" width=75%>
   
 </p>
 <p align="center"><b>Methodology: </b>Three Methods for Wave Processing</p>
