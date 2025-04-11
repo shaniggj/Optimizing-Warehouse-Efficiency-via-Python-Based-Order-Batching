@@ -133,7 +133,7 @@ To estimate the impact of wave picking strategy on your productivity, we will ru
 <p align="center"><b>Experiment 1:</b> Results for 5,000 order lines with a ratio from 1 to 9 orders per route</p>
 
 
-## 🧮**Experiment 2: Impacts of orders batching using spatial clusters of picking locations?**
+## 🧮 **Experiment 2: Impacts of orders batching using spatial clusters of picking locations?**
 
 <p align="center">
   <img align="center" src="static/img/cluster_process.jpg" width=100%>
@@ -141,7 +141,7 @@ To estimate the impact of wave picking strategy on your productivity, we will ru
 </p>
 <p align="center"><b>Order Lines Processing</b> for Order Wave Picking using Clustering by Picking Location</p>
 
-### 💡**Idea: Picking Locations Clusters** ###
+### 💡 **Idea: Picking Locations Clusters** ###
 
 Group picking locations by clusters to reduce the walking distance for each picking route. _(Example: the maximum walking distance between two locations is <15 m)_
 
