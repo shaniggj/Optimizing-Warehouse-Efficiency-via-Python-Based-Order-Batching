@@ -26,7 +26,7 @@ Based on your **actual warehouse layout**, storage locations are mapped with **2
 </p>
 <p align="center">Warehouse Layout with 2D Coordinates</p>
 
-Every storage location must be linked to a Reference using Master Data. (For instance, reference #123129 is located in coordinate (xi, yi)). You can then associate every order line to a geographical location for picking.
+Every storage location must be linked to a Reference using Master Data. (For instance, reference #123129 is located in coordinate (xi, yi)). You can then associate every order line to a geographical location for picking
 
 <p align="center">
   <img align="center" src="static/img/processing_layout.png" width=75%>
