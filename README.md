@@ -1,6 +1,6 @@
 # Optimizing-Warehouse-Efficiency-via-Python-Based-Order-Batching
 
-In a **Distribution Center (DC)**, walking time from one location to another during picking route can account for 60% to 70% of the operator’s working time. Reducing this walking time is the most effective way to increase your DC overall productivity.
+In a **Distribution Center (DC)**, walking time from one location to another during picking route can account for 60% to 70% of the operator’s working time. Reducing this walking time is the most effective way to increase your DC overall productivity
 
 <p align="center">
   <img align="center" src="static/img/intro_1.gif" width=75%>
